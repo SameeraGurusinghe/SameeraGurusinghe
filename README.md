@@ -27,10 +27,10 @@
 - 👀 I have worked as a Trainee Software Engineer at ZinCat Technology (Pvt) Ltd.
 
 ### 🤝 Connect with me:
-<a href="https://sameeragurusinghe.github.io/"><iconify-icon icon="mdi:linkedin"></iconify-icon></a>
-<a href="https://www.linkedin.com/in/SameeraGurusinghe/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/sameera_guruz"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-<a href="https://twitter.com/sameeragurus"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/twitter.svg" alt="Yu Shi | Twitter" width="21px"/></a>
+<a href="https://sameeragurusinghe.github.io"><img align="left" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/WWW.svg" alt="www" width="21px"/></a>
+<a href="https://www.linkedin.com/in/SameeraGurusinghe"><img align="left" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/sameera_guruz"><img align="left" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" alt="Instagram" width="21px"/></a>
+<a href="https://twitter.com/sameeragurus"><img align="left" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg" alt="Twitter" width="21px"/></a>
 </br>
 
 ---
