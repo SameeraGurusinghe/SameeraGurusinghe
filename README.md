@@ -23,25 +23,32 @@
 </div>
 
 ---
-- 👋 Hi, I’m @SameeraGurusinghe
-- 👀 I have worked as a Trainee Software Engineer at ZinCat Technology (Pvt) Ltd.
+- 👋 Hello, I’m SameeraGurusinghe
+- 🧑‍🎓 I am a Self-lerner
+- 👨‍💻 I am a Developer
+- 😎 I am a Simple boy
+
+- 👀 I am a fast, enthusiastic learner and a dedicated hard-working individual who is willing to put complete effort for whatever task ahead. I have worked as a Trainee Software Engineer at ZinCat Technology (Pvt) Ltd.
 
 ### 🤝 Connect with me:
 <a href="https://sameeragurusinghe.github.io"><img align="left" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/WWW.svg" alt="www" width="21px"/></a>
-<a href="https://www.linkedin.com/in/SameeraGurusinghe"><img align="left" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/sameera_guruz"><img align="left" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" alt="Instagram" width="21px"/></a>
+<a href="https://www.linkedin.com/in/sameeragurusinghe"><img align="left" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="21px"/></a>
 <a href="https://twitter.com/sameeragurus"><img align="left" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg" alt="Twitter" width="21px"/></a>
+<a href="https://instagram.com/sameera_guruz"><img align="left" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" alt="Instagram" width="21px"/></a>
+<a href="https://facebook.com/sameeragurusinghe"><img align="left" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg" alt="Facebook" width="21px"/></a>
 </br>
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJs" alt="NodeJs" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"  title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
